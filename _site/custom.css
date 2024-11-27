@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+#nav {
+  background-color: black;
+}
+
+h1 {
+  font-size: 60px; 
+  font-weight: normal;
+}
+
+body {
+  font-family: Georgia;
+  font-size: 19px;
+  background-color: #B6A8A5;
+}
+
+/*-- scss:rules --*/
