@@ -1,19 +1,25 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "June Harkrider"
   navbar:
-    left:
+    background: light
+    foreground: dark
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - cv.qmd
 
 format:
   html:
+    grid: 
+      body-width: 800px
+    page-layout: full
     theme: custom.scss
     css: custom.css
     toc: true
 
-editor: visual
+editor: source
 

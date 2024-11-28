@@ -1,18 +1,19 @@
 /*-- scss:defaults --*/
 
-#nav {
-  background-color: black;
-}
+
 
 h1 {
-  font-size: 60px; 
+  text-align: center;
+  font-size: 40px; 
   font-weight: normal;
 }
 
 body {
-  font-family: Georgia;
-  font-size: 19px;
-  background-color: #B6A8A5;
+  text-align: left;
+  margin-left: 1px;
+  font-family: "Lucida Console", monospace;
+  font-size: 17px;
+  background-color: #B8BFB4;
 }
 
 /*-- scss:rules --*/
