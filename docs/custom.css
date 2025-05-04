@@ -3,7 +3,7 @@
 
 
 h1 {
-  text-align: center;
+  text-align: left;
   font-size: 40px; 
   font-weight: normal;
 }
@@ -12,8 +12,7 @@ body {
   text-align: left;
   margin-left: 1px;
   font-family: "Lucida Console", monospace;
-  font-size: 17px;
-  background-color: #B8BFB4;
+  font-size: 10px;
 }
 
 /*-- scss:rules --*/
