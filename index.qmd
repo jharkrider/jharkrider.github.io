@@ -3,12 +3,10 @@ title: "June Harkrider"
 editor_options: 
   chunk_output_type: console
 ---
+![](images/DSCF0073.jpg){width="600"}
 
-\
-![](images/DSCF0073.jpg){width="1500"}
+I am a recent graduate of the University of Michigan - Ann Arbor, where I studied Linguistics and German. My senior honors thesis "An Experimental Approach to Modal Particles in the Recent German Diaspora" implemented a novel experimental approach to measuring how language experience affects the expression of modality in an early-learned but non-dominant language. 
 
-I am a fourth-year undergraduate student at the University of Michigan - Ann Arbor studying Linguistics and German. My current project investigates heritage language pragmatics using a novel experimental approach, where I am advised by Savithry Namboodiripad and Ezra Keshet. \
-
-More broadly, I am interested in experimental semantics and pragmatics, multilingualism, psycholinguistics, and language contact.
+I am interested in experimental semantics and pragmatics, multilingualism, psycholinguistics, and language contact/change.
 
 You can reach me via email: jhark \[at\] umich \[dot\] edu
