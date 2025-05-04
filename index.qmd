@@ -4,7 +4,11 @@ editor_options:
   chunk_output_type: console
 ---
 
+\
+![](images/DSCF0073.jpg){width="1500"}
 
-I am a fourth-year undergraduate student at the University of Michigan - Ann Arbor studying Linguistics and German. My current project investigates heritage language pragmatics using a novel experimental approach, where I am advised by Savithry Namboodiripad and Ezra Keshet. More broadly, I am interested in experimental semantics and pragmatics, multilingualism, psycholinguistics, and language contact. 
+I am a fourth-year undergraduate student at the University of Michigan - Ann Arbor studying Linguistics and German. My current project investigates heritage language pragmatics using a novel experimental approach, where I am advised by Savithry Namboodiripad and Ezra Keshet. \
 
-You can reach me via email: jhark [at] umich [dot] edu
+More broadly, I am interested in experimental semantics and pragmatics, multilingualism, psycholinguistics, and language contact.
+
+You can reach me via email: jhark \[at\] umich \[dot\] edu

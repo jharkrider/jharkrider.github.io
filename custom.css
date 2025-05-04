@@ -4,15 +4,15 @@
 
 h1 {
   text-align: left;
-  font-size: 40px; 
+  font-size: 30px; 
   font-weight: normal;
 }
 
 body {
   text-align: left;
   margin-left: 1px;
-  font-family: "Lucida Console", monospace;
-  font-size: 10px;
+  font-family: "Garamond";
+  font-size: 20px;
 }
 
 /*-- scss:rules --*/
