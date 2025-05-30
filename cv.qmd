@@ -4,4 +4,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-<embed src="https://jharkrider.github.io/cv.juneharkrider.pdf" type="application/pdf" />
+<embed src="https://jharkrider.github.io/cv/cv.juneharkrider.pdf" type="application/pdf" />
