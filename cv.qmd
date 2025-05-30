@@ -4,4 +4,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-<a href="jharkrider.github.io/cv.juneharkrider.pdf" target="_blank">PDF.</a>
+<embed src="https://jharkrider.github.io/cv.juneharkrider.pdf" type="application/pdf" />
