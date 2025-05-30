@@ -1,11 +1,16 @@
 /*-- scss:defaults --*/
 
-
-
 h1 {
   text-align: left;
   font-size: 30px; 
   font-weight: normal;
+}
+
+h3 {
+  text-align: left;
+  font-size: 25px; 
+  font-weight: normal;
+  font-style: italic;
 }
 
 body {

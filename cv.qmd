@@ -3,3 +3,5 @@ title: "CV"
 editor_options: 
   chunk_output_type: console
 ---
+
+<a href="jharkrider.github.io/cv.juneharkrider.pdf" target="_blank">PDF.</a>
