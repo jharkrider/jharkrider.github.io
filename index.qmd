@@ -4,7 +4,10 @@ editor_options:
   chunk_output_type: console
 ---
 
-![](images/DSCF0073.jpg){width="600"}
+#![](images/DSCF0073.jpg){width="600"}
+
+I am a PhD student in the Department of Linguistics at UCLA. 
+
 
 I am a recent graduate of the University of Michigan - Ann Arbor, where I studied Linguistics and German. My senior honors thesis "An Experimental Approach to Modal Particles in the Recent German Diaspora" implemented a novel experimental approach to measuring how language experience affects the expression of modality in an early-learned but non-dominant language.
 
@@ -12,4 +15,4 @@ To learn more about my ongoing projects, check out my <a href="https://jharkride
 
 I am interested in experimental semantics and pragmatics, multilingualism, psycholinguistics, and language contact/change.
 
-You can reach me via email: jhark \[at\] umich \[dot\] edu
+You can reach me via email: harkrider \[at\] ucla \[dot\] edu
